@@ -1,0 +1,6 @@
+// Nothing needed here for AGP 8.x
+// This file can stay almost empty.
+
+tasks.register("clean", Delete) {
+    delete(rootProject.buildDir)
+}

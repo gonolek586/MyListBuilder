@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+id buttonLoadFile
+id checkBoxItem
+id recyclerView
+id textTierCount
+id textTierName
+layout activity_main
+layout item_child
+layout item_tier
+style Theme.TieredChecklist
